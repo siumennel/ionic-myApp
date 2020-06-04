@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "862128689065",
+    "firebase_url": "https://fir-test-d044e.firebaseio.com",
+    "project_id": "fir-test-d044e",
+    "storage_bucket": "fir-test-d044e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862128689065:android:60983c4f82d3a8cff17eb8",
+        "android_client_info": {
+          "package_name": "com.siumennel.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862128689065-ro1djb7fg9ln0cqbdkjq36sstem9a3qs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzT9Xx3R12sLX2QA53_lxBBoTpohox_04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862128689065-ro1djb7fg9ln0cqbdkjq36sstem9a3qs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
